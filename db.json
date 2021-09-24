@@ -1,0 +1,633 @@
+{
+  "earning": [
+    {
+      "orderNumber": "ord-00004",
+      "orderDate": 1632298871000,
+      "orderAmount": 10.5,
+      "orderItem": 3
+    },
+    {
+      "orderNumber": "ord-00003",
+      "orderDate": 1632298871000,
+      "orderAmount": 10.5,
+      "orderItem": 2
+    },
+    {
+      "orderNumber": "ord-00002",
+      "orderDate": 1632298871000,
+      "orderAmount": 10.5,
+      "orderItem": 5
+    },
+    {
+      "orderNumber": "ord-00001",
+      "orderDate": 1632298871000,
+      "orderAmount": 10.5,
+      "orderItem": 1
+    }
+  ],
+  "working-hours": [
+    {
+      "day": "Monday",
+      "isActive": true,
+      "slotOneStart": 1632355253000,
+      "slotOneEnd": 1632330053000,
+      "slotTwoStart": 1632376853000,
+      "slotTwoEnd": 1632391253000
+    },
+    {
+      "day": "Tuesday",
+      "isActive": true,
+      "slotOneStart": 1632355253000,
+      "slotOneEnd": 1632330053000,
+      "slotTwoStart": 1632376853000,
+      "slotTwoEnd": 1632391253000
+    },
+    {
+      "day": "Wednesday",
+      "isActive": true,
+      "slotOneStart": 1632355253000,
+      "slotOneEnd": 1632330053000,
+      "slotTwoStart": 1632376853000,
+      "slotTwoEnd": 1632391253000
+    },
+    {
+      "day": "Thursday",
+      "isActive": true,
+      "slotOneStart": 1632355253000,
+      "slotOneEnd": 1632330053000,
+      "slotTwoStart": 1632376853000,
+      "slotTwoEnd": 1632391253000
+    },
+    {
+      "day": "Friday",
+      "isActive": true,
+      "slotOneStart": 1632355253000,
+      "slotOneEnd": 1632330053000,
+      "slotTwoStart": 1632376853000,
+      "slotTwoEnd": 1632391253000
+    },
+    {
+      "day": "Saturday",
+      "isActive": true,
+      "slotOneStart":  1632355253000,
+      "slotOneEnd":  1632330053000
+    },
+    {
+      "day": "Sunday",
+      "isActive": false,
+      "slotOneStart": 1632298871000,
+      "slotOneEnd": 1632330053000
+    }
+  ],
+  "top-up-history-detail": [
+    {
+      "customerName": "Chan Thaily",
+      "phoneNumber": "08909889080",
+      "money": "100000៛",
+      "time": 1632298871000,
+      "staffName": "Mony"
+    },
+    {
+      "customerName": "Chan Thaily",
+      "phoneNumber": "08909889080",
+      "money": "100000៛",
+      "time": 1632298871000,
+      "staffName": "Mony"
+    },
+    {
+      "customerName": "Chan Thaily",
+      "phoneNumber": "08909889080",
+      "money": "100000៛",
+      "time": 1632298871000,
+      "staffName": "Mony"
+    }
+  ],
+  "top-up-history": [
+    {
+      "dateTime": 1632298871000,
+      "historyDetail": [
+        {
+          "customerName": "Chan Thaily",
+          "phoneNumber": "08909889080",
+          "money": "100000៛",
+          "time": 1632298871000,
+          "staffName": "Mony"
+        },
+        {
+          "customerName": "Chan Thaily",
+          "phoneNumber": "08909889080",
+          "money": "100000៛",
+          "time": 1632298871000,
+          "staffName": "Mony"
+        }
+      ]
+    },
+    {
+      "dateTime": 1632298871000,
+      "historyDetail": [
+        {
+          "customerName": "Chan Thaily",
+          "phoneNumber": "08909889080",
+          "money": "100000៛",
+          "time": 1632298871000,
+          "staffName": "Mony"
+        },
+        {
+          "customerName": "Chan Thaily",
+          "phoneNumber": "08909889080",
+          "money": "100000៛",
+          "time": 1632298871000,
+          "staffName": "Mony"
+        }
+      ]
+    }
+  ],
+  "top-up-amount-suggestion": [
+    {
+      "id": 1,
+      "amount": 10000
+    },
+    {
+      "id": 2,
+      "amount": 20000
+    },
+    {
+      "id": 3,
+      "amount": 40000
+    },
+    {
+      "id": 4,
+      "amount": 50000
+    },
+    {
+      "id": 5,
+      "amount": 100000
+    },
+    {
+      "id": 6,
+      "amount": 200000
+    }
+  ],
+  "order": [
+    {
+      "id": 1,
+      "orderNumber": "ord-00001",
+      "orderDate": "23-09-2021 01:23",
+      "orderAmount": 10.5,
+      "orderItem": 3,
+      "status": 0,
+      "customerAddress": "No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone": "0982",
+      "fee": 0,
+      "orderdetailList": [
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "orderNumber": "ord-00001",
+      "orderDate": "23-09-2021 01:23",
+      "orderAmount": 10.5,
+      "orderItem": 3,
+      "status": 0,
+      "customerAddress": "No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone": "0982",
+      "fee": 0,
+      "orderdetailList": [
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "orderNumber": "ord-00001",
+      "orderDate": "23-09-2021 01:23",
+      "orderAmount": 10.5,
+      "orderItem": 3,
+      "status": 1,
+      "customerAddress": "No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone": "0982",
+      "fee": 0,
+      "orderdetailList": [
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "orderNumber": "ord-00001",
+      "orderDate": "23-09-2021 01:23",
+      "orderAmount": 10.5,
+      "orderItem": 3,
+      "status": 2,
+      "customerAddress": "No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone": "0982",
+      "fee": 0,
+      "orderdetailList": [
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "orderNumber": "ord-00001",
+      "orderDate": "23-09-2021 01:23",
+      "orderAmount": 10.5,
+      "orderItem": 3,
+      "status": 3,
+      "customerAddress": "No.395E0, St. Kampuchea Krom Corner \n221, Phsar Depo 3, Phnom Penh, \nCambodia.",
+      "phone": "0982",
+      "fee": 0,
+      "orderdetailList": [
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        },
+        {
+          "title": "បាយមាន់ហៃណាំ",
+          "quantity": 2,
+          "currentPrice": 4.50,
+          "normalPrice": 5.00,
+          "totalamount": 9.00,
+          "addItem": "Spicy, and more potato"
+        }
+      ]
+    }
+  ],
+  "card": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "customerName":"djjI",
+      "cardNumber": "234567",
+      "serial": "12345AH",
+      "balance": 12.00,
+      "point": 55,
+      "pointHistory": [
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50,
+          "point": 5
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50,
+          "point": 5
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50,
+          "point": 5
+        }
+      ],
+      "topUpHistory": [
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "customerId": 2,
+      "customerName":"AdDB",
+      "cardNumber": "234567",
+      "serial": "12345AH",
+      "balance": 12.00,
+      "point": 55,
+      "pointHistory": [
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50,
+          "point": 5
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50,
+          "point": 5
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50,
+          "point": 5
+        }
+      ],
+      "topUpHistory": [
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "customerId": 3,
+      "customerName":"ADB",
+      "cardNumber": "234567",
+      "serial": "12345AH",
+      "balance": 12.00,
+      "point": 55,
+      "pointHistory": [
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50,
+          "point": 5
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50,
+          "point": 5
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50,
+          "point": 5
+        }
+      ],
+      "topUpHistory": [
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50
+        },
+        {
+          "dateTime": "10-07-2021 10:40 AM",
+          "amount": 75.50
+        }
+      ]
+    }
+  ],
+  "category":[
+    {
+      "id":1,
+      "name":"food",
+      "thumnils":"https://www.pnglib.com/wp-content/uploads/2020/01/food_5e19ce7632e46.png"
+    },
+    {
+      "id":2,
+      "name":"snack",
+      "thumnils":"https://www.pngkey.com/png/full/4-49191_food-png-transparent-free-images-fast-food-clipart.png"
+    },
+    {
+      "id":3,
+      "name":"fruit",
+      "thumnils":"https://www.pngarts.com/files/11/Mix-Fruit-PNG-Image.png"
+    },
+    {
+      "id":4,
+      "name":"drink",
+      "thumnils":"https://www.freepnglogos.com/uploads/drinks-png/drinks-and-cocktails-14.png"
+    },
+    {
+      "id":5,
+      "name":"sauce",
+      "thumnils":"https://pngimg.com/uploads/sauce/sauce_PNG121.png"
+    }
+  ],
+  "category_list":[
+    {
+      "id":1,
+      "categoryName":"food",
+      "categoryId":1,
+      "listDetail":[
+        {
+          "name":"abc",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        },
+        {
+          "name":"dd",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        },
+        {
+          "name":"ijis",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        },
+        {
+          "name":"jisj",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        },{
+          "name":"jijs",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        }
+      ]
+    },
+    {
+      "id":2,
+      "categoryName":"snack",
+      "categoryId":2,
+      "listDetail":[
+        {
+          "name":"skjs",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        },
+        {
+          "name":"kjs",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        },
+        {
+          "name":"skjos",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        },
+        {
+          "name":"mksls",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        }
+      ]
+    },
+    {
+      "id":3,
+      "categoryName":"fruit",
+      "categoryId":3,
+      "listDetail":[
+        {
+          "name":"kjns",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        },
+        {
+          "name":"kjskjs",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        },
+        {
+          "name":"kjnjks",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        }
+      ]
+    },
+    {
+      "id":4,
+      "categoryName":"drink",
+      "categoryId":4,
+      "listDetail":[
+        {
+          "name":"sdkjs",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        },
+        {
+          "name":"skijjso",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        }
+      ]
+    },
+    {
+      "id":5,
+      "categoryName":"sauce",
+      "categoryId":5,
+      "listDetail":[
+        {
+          "name":"skjs",
+          "price":0,
+          "isActive":0,
+          "imageUrl":""
+        }
+      ]
+    }
+  ]
+}
