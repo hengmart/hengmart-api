@@ -355,6 +355,26 @@
       ]
     }
   ],
+  "card-info":[
+    {
+      "id": 1,
+      "customerId": 1,
+      "customerName":"djjI",
+      "cardNumber": "234567",
+      "serial": "12345AH",
+      "balance": 12.00,
+      "point": 55
+    },
+    {
+      "id": 2,
+      "customerId": 2,
+      "customerName":"djjI",
+      "cardNumber": "234567",
+      "serial": "12345AH",
+      "balance": 12.00,
+      "point": 55
+    }
+  ],
   "card": [
     {
       "id": 1,
