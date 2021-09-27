@@ -375,6 +375,49 @@
       "point": 55
     }
   ],
+  "card-top-up-history": [
+    {
+      "id":1,
+      "cardId":1,
+      "dateTime": "10-07-2021 10:40 AM",
+      "amount": 75.50
+    },
+    {
+      "id":1,
+      "cardId":1,
+      "dateTime": "10-07-2021 10:40 AM",
+      "amount": 75.50
+    },
+    {
+      "id":1,
+      "cardId":1,
+      "dateTime": "10-07-2021 10:40 AM",
+      "amount": 75.50
+    }
+  ],
+  "point-history":[
+    {
+      "id":1,
+      "cardId":1,
+      "dateTime": "10-07-2021 10:40 AM",
+      "amount": 75.50,
+      "point": 5
+    },
+    {
+      "id":1,
+      "cardId":1,
+      "dateTime": "10-07-2021 10:40 AM",
+      "amount": 75.50,
+      "point": 5
+    },
+    {
+      "id":1,
+      "cardId":1,
+      "dateTime": "10-07-2021 10:40 AM",
+      "amount": 75.50,
+      "point": 5
+    }
+  ],
   "card": [
     {
       "id": 1,
