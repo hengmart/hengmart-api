@@ -418,126 +418,30 @@
       "point": 5
     }
   ],
-  "card": [
+  "Notification":[
     {
-      "id": 1,
-      "customerId": 1,
-      "customerName":"djjI",
-      "cardNumber": "234567",
-      "serial": "12345AH",
-      "balance": 12.00,
-      "point": 55,
-      "pointHistory": [
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        }
-      ],
-      "topUpHistory": [
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        }
-      ]
+      "id":1,
+      "title": "Happy for weekend days with turtle soup from Hengmart",
+      "description": "It's the best for family party for lunch and evening",
+      "createDateTime": "2021-09-28 09:58:55 AM"
     },
     {
-      "id": 2,
-      "customerId": 2,
-      "customerName":"AdDB",
-      "cardNumber": "234567",
-      "serial": "12345AH",
-      "balance": 12.00,
-      "point": 55,
-      "pointHistory": [
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        }
-      ],
-      "topUpHistory": [
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        }
-      ]
+      "id":2,
+      "title": "Special Price",
+      "description": "New fruit just arrived gain benefit for your health",
+      "createDateTime": "2021-09-28 09:58:55 AM"
     },
     {
-      "id": 3,
-      "customerId": 3,
-      "customerName":"ADB",
-      "cardNumber": "234567",
-      "serial": "12345AH",
-      "balance": 12.00,
-      "point": 55,
-      "pointHistory": [
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50,
-          "point": 5
-        }
-      ],
-      "topUpHistory": [
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        },
-        {
-          "dateTime": "10-07-2021 10:40 AM",
-          "amount": 75.50
-        }
-      ]
+      "id":3,
+      "title": "Hengmart piggy fan",
+      "description": "It's is the best for celebrate any festival or family party. ",
+      "createDateTime": "2021-09-28 09:58:55 AM"
+    },
+    {
+      "id":4,
+      "title": "Red dragon fruit",
+      "description": "Natural with sugary fresh and good for heath",
+      "createDateTime": "2021-09-28 09:58:55 AM"
     }
   ],
   "category":[
