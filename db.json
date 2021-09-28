@@ -421,27 +421,43 @@
   "Notification":[
     {
       "id":1,
+      "imageUrl": "",
+      "url": "",
       "title": "Happy for weekend days with turtle soup from Hengmart",
-      "description": "It's the best for family party for lunch and evening",
-      "createDateTime": "2021-09-28 09:58:55 AM"
+      "text": "It's the best for family party for lunch and evening",
+      "dateTime": "2021-09-28 09:58:55 AM",
+      "buttonTitle": "view",
+      "isNew": true
     },
     {
       "id":2,
+      "imageUrl": "",
+      "url": "",
       "title": "Special Price",
-      "description": "New fruit just arrived gain benefit for your health",
-      "createDateTime": "2021-09-28 09:58:55 AM"
+      "text": "New fruit just arrived gain benefit for your health",
+      "dateTime": "2021-09-28 09:58:55 AM",
+      "buttonTitle": "view",
+      "isNew": true
     },
     {
       "id":3,
+      "imageUrl": "",
+      "url": "",
       "title": "Hengmart piggy fan",
-      "description": "It's is the best for celebrate any festival or family party. ",
-      "createDateTime": "2021-09-28 09:58:55 AM"
+      "text": "It's is the best for celebrate any festival or family party. ",
+      "dateTime": "2021-09-28 09:58:55 AM",
+      "buttonTitle": "view",
+      "isNew": true
     },
     {
       "id":4,
+      "imageUrl": "",
+      "url": "",
       "title": "Red dragon fruit",
-      "description": "Natural with sugary fresh and good for heath",
-      "createDateTime": "2021-09-28 09:58:55 AM"
+      "text": "Natural with sugary fresh and good for heath",
+      "dateTime": "2021-09-28 09:58:55 AM",
+      "buttonTitle": "view",
+      "isNew": true
     }
   ],
   "category":[
