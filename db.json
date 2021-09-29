@@ -512,6 +512,46 @@
       "price": 18000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a19.jpeg",
       "isActive": false
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "name": "berger",
+      "price": 12000,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/b.png",
+      "isActive": false
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "name": "sandwich",
+      "price": 10000,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/s.jpg",
+      "isActive": false
+    },
+    {
+      "id": 6,
+      "categoryId": 3,
+      "name": "ចេក",
+      "price": 6000,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f3.jpg",
+      "isActive": false
+    },
+    {
+      "id": 7,
+      "categoryId": 3,
+      "name": "ទំពាំងបាយជូរ",
+      "price": 20000,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f1.jpg",
+      "isActive": false
+    },
+    {
+      "id": 8,
+      "categoryId": 3,
+      "name": "ក្រូច",
+      "price": 8000,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f2.jpg",
+      "isActive": false
     }
   ],
   "category_list": [
