@@ -494,7 +494,7 @@
       "categoryId": 1,
       "name": "បាយមាន់ហៃណាំ",
       "price": 10000,
-      "imageUrl": "https://raw.githubusercontent.com/KravanhEco/hengmart-api/main/images/product/foodc.png",
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png?token=AVYSRF6DYH2IRH2AKK4UVRLBKPSGS",
       "isActive": false
     },
     {
@@ -502,7 +502,7 @@
       "categoryId": 1,
       "name": "ភ្លាសាច់គោ",
       "price": 12000,
-      "imageUrl": "https://raw.githubusercontent.com/KravanhEco/hengmart-api/main/images/product/a17.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a17.jpeg?token=AVYSRF6DYH2IRH2AKK4UVRLBKPSGS",
       "isActive": false
     },
     {
@@ -510,7 +510,7 @@
       "categoryId": 1,
       "name": "ឆាក្ដាមម្រេចខ្ចី",
       "price": 18000,
-      "imageUrl": "https://raw.githubusercontent.com/KravanhEco/hengmart-api/main/images/product/a19.jpeg",
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a19.jpeg?token=AVYSRF6DYH2IRH2AKK4UVRLBKPSGS",
       "isActive": false
     }
   ],
