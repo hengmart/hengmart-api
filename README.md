@@ -1,3 +1,8 @@
+# heng-mart-mock-api
+https://raw.githubusercontent.com/KravanhEco/heng-mart-mock-api/main/images/img1.png
+https://my-json-server.typicode.com/KravanhEco/heng-mart-mock-api/earning
+
+
 # Deploy `json-server` to `{{ free hosting site }}`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
