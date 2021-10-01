@@ -594,6 +594,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":3,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
     },
@@ -604,6 +605,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":2,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a17.jpeg"
     },
@@ -614,6 +616,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":2,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a19.jpeg"
     }
@@ -626,6 +629,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":3,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a19.jpeg"
     },
@@ -636,6 +640,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":5,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/b.png"
     },
@@ -646,6 +651,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":1,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/s.jpg"
     }
@@ -658,6 +664,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":1,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/s.jpg"
     },
@@ -668,6 +675,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":2,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f3.jpg"
     },
@@ -678,6 +686,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":3,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f1.jpg"
     },
@@ -688,6 +697,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":1,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f2.jpg"
     }
@@ -701,6 +711,7 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":1,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f1.jpg"
     },
@@ -712,8 +723,17 @@
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
+      "categoryId":4,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f2.jpg"
+    }
+  ],
+  "test":[
+    {
+      "id":30
+    },
+    {
+      "id":20
     }
   ],
   "category_list": [
@@ -841,40 +861,6 @@
           "imageUrl": ""
         }
       ]
-    }
-  ],
-  "address":[
-    {
-      "id":1,
-      "title":"work",
-      "address":"Address : Floor 4th,No. 85-88, St. Kim il Sung (289), Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
-      "isDefault":true,
-      "latitude":1234214214,
-      "longitude":325423543245
-    },
-    {
-      "id":2,
-      "title":"home",
-      "address":"Address :  Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
-      "isDefault":false,
-      "latitude":67896,
-      "longitude":32542354678953245
-    },
-    {
-      "id":3,
-      "title":"mart",
-      "address":"Address : Floor 4th,No. 85-88, St. Kim il Sung (289), Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
-      "isDefault":false,
-      "latitude":4574,
-      "longitude":32542456743543245
-    },
-    {
-      "id":4,
-      "title":"office",
-      "address":"Address : Samdach Penn Nouth St. (289), Phnom Penh",
-      "isDefault":false,
-      "latitude":4574,
-      "longitude":3254
     }
   ]
 }
