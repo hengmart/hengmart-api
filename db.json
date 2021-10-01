@@ -896,5 +896,37 @@
       "latitude":23562356,
       "longitude":9657478
     }
+  ],
+  "dealerInfo":[
+    {
+      "id":1,
+      "totalCustomer":25,
+      "benefitOfToday":234,
+      "benefitTodayDate":1632298871000,
+      "totalBenefit":234,
+      "totalBenefitStartDate":1632298871000,
+      "totalBenefitEndDate":1632298871000,
+      "couponCode":"doem"
+    },
+    {
+      "id":2,
+      "totalCustomer":15,
+      "benefitOfToday":2345,
+      "benefitTodayDate":1632298871000,
+      "totalBenefit":456,
+      "totalBenefitStartDate":1632298871000,
+      "totalBenefitEndDate":1632298871000,
+      "couponCode":"mony"
+    },
+    {
+      "id":3,
+      "totalCustomer":45,
+      "benefitOfToday":678,
+      "benefitTodayDate":1632298871000,
+      "totalBenefit":275,
+      "totalBenefitStartDate":1632298871000,
+      "totalBenefitEndDate":1632298871000,
+      "couponCode":"roth"
+    }
   ]
 }
