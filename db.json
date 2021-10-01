@@ -586,6 +586,136 @@
       "isActive": true
     }
   ],
+  "special-offer":[
+    {
+      "id": 1,
+      "name": "បាយមាន់ហៃណាំ",
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png",
+    },
+    {
+      "id": 2,
+      "name": "ភ្លាសាច់គោ",
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a17.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "ឆាក្ដាមម្រេចខ្ចី",
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a19.jpeg"
+    }
+  ],
+  "lunch-box":[
+    {
+      "id": 3,
+      "name": "ឆាក្ដាមម្រេចខ្ចី",
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a19.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "berger",
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/b.png"
+    },
+    {
+      "id": 5,
+      "name": "sandwich",
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/s.jpg"
+    }
+  ],
+  "popular":[
+    {
+      "id": 5,
+      "name": "sandwich",
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/s.jpg"
+    },
+    {
+      "id": 6,
+      "name": "ចេក",
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ទំពាំងបាយជូរ",
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "ក្រូច",
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f2.jpg"
+    }
+  ],
+  "":[
+    {
+      "id": 1,
+      "setName": "ទំពាំងបាយជូរ",
+      "people": 5,
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f1.jpg"
+    },
+    {
+      "id": 2,
+      "setName": "ក្រូច",
+      "people": 9,
+      "normalPrice": 5.50,
+      "currentPrice": 3.25,
+      "discount": 2.25,
+      "isFavorite": true,
+      "rating": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f2.jpg"
+    }
+  ],
   "category_list": [
     {
       "id": 1,
