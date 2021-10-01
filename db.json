@@ -595,7 +595,7 @@
       "discount": 2.25,
       "isFavorite": true,
       "rating": 1.5,
-      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png",
+      "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
     },
     {
       "id": 2,
