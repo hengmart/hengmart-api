@@ -862,5 +862,39 @@
         }
       ]
     }
+  ],
+  "address":[
+    {
+      "id":1,
+      "title":"work",
+      "address":"Address : Floor 4th,No. 85-88, St. Kim il Sung (289), Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
+      "isDefault":true,
+      "latitude":214124124,
+      "longitude":89068023
+    },
+    {
+      "id":2,
+      "title":"home",
+      "address":"Address :  St. Kim il Sung (289), Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
+      "isDefault":false,
+      "latitude":256,
+      "longitude":856
+    },
+    {
+      "id":3,
+      "title":"mart",
+      "address":"Address : Floor 4th,No. 85-88,Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
+      "isDefault":false,
+      "latitude":245,
+      "longitude":796
+    },
+    {
+      "id":4,
+      "title":"office",
+      "address":"Address : Floor 4th,No. 85-88, St. Kim il Sung (289)",
+      "isDefault":false,
+      "latitude":23562356,
+      "longitude":9657478
+    }
   ]
 }
