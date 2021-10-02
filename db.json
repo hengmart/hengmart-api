@@ -496,30 +496,136 @@
     {
       "id": 1,
       "name": "food",
+      "parentId": 0,
       "thumnils": "https://www.pnglib.com/wp-content/uploads/2020/01/food_5e19ce7632e46.png"
     },
     {
       "id": 2,
       "name": "snack",
+      "parentId": 0,
       "thumnils": "https://www.pngkey.com/png/full/4-49191_food-png-transparent-free-images-fast-food-clipart.png"
     },
     {
       "id": 3,
       "name": "fruit",
+      "parentId": 0,
       "thumnils": "https://www.pngarts.com/files/11/Mix-Fruit-PNG-Image.png"
     },
     {
       "id": 4,
       "name": "drink",
+      "parentId": 0,
       "thumnils": "https://www.freepnglogos.com/uploads/drinks-png/drinks-and-cocktails-14.png"
     },
     {
       "id": 5,
       "name": "sauce",
+      "parentId": 0,
       "thumnils": "https://pngimg.com/uploads/sauce/sauce_PNG121.png"
     }
   ],
-
+  "sub-category":[
+        {
+        "id": 6,
+        "parentId": 1,
+        "name": "Rice",
+        "thumnils": "assets/images/mocks/food_images/food.png"},
+        {
+        "id": 7,
+        "parentId": 1,
+        "name": "Soup",
+        "thumnils": "assets/images/mocks/food_images/snace.png"},
+        {
+        "id": 8,
+        "parentId": 1,
+        "name": "Fried Rice",
+        "thumnils": "assets/images/mocks/food_images/fruit.png"},
+        {
+        "id": 9,
+        "parentId": 1,
+        "name": "Fried Food",
+        "thumnils": "assets/images/mocks/food_images/drink.png"},
+        {
+        "id": 10,
+        "parentId": 1,
+        "name": "Sub cat",
+        "thumnils": "assets/images/mocks/food_images/sauce.png"},
+        {
+        "id": 11,
+        "parentId": 2,
+        "name": "Pops",
+        "thumnils": "assets/images/mocks/food_images/snack1.png"},
+        {
+        "id": 12,
+        "parentId": 2,
+        "name": "Chipsticks",
+        "thumnils": "assets/images/mocks/food_images/snack2.png"},
+        {
+        "id": 13,
+        "parentId": 2,
+        "name": "Chickatees",
+        "thumnils": "assets/images/mocks/food_images/snack3.png"},
+        {
+        "id": 14,
+        "parentId": 2,
+        "name": "Bacon Fries",
+        "thumnils": "assets/images/mocks/food_images/snack4.png"},
+        {
+        "id": 15,
+        "parentId": 2,
+        "name": "Jelly Beans",
+        "thumnils": "assets/images/mocks/food_images/snack5.png"},
+        {
+        "id": 16,
+        "parentId": 3,
+        "name": "Apple",
+        "thumnils": "assets/images/mocks/food_images/fruit.png"},
+        {
+        "id": 17,
+        "parentId": 3,
+        "name": "Grape",
+        "thumnils": "assets/images/mocks/food_images/fruit1.png"},
+        {
+        "id": 18,
+        "parentId": 3,
+        "name": "Banana",
+        "thumnils": "assets/images/mocks/food_images/fruit2.png"},
+        {
+        "id": 19,
+        "parentId": 4,
+        "name": "Mixed Drink",
+        "thumnils": "assets/images/mocks/food_images/food.png"},
+        {
+        "id": 20,
+        "parentId": 4,
+        "name": "Cocktail",
+        "thumnils": "assets/images/mocks/food_images/snace.png"},
+        {
+        "id": 21,
+        "parentId": 4,
+        "name": "Juice",
+        "thumnils": "assets/images/mocks/food_images/fruit.png"},
+        {
+        "id": 22,
+        "parentId": 5,
+        "name": "Brown Sauce",
+        "thumnils": "assets/images/mocks/food_images/food.png"},
+        {
+        "id": 23,
+        "parentId": 5,
+        "name": "Butter Sauce",
+        "thumnils": "assets/images/mocks/food_images/snace.png"},
+        {
+        "id": 24,
+        "parentId": 5,
+        "name": "Fish Sauce",
+        "thumnils": "assets/images/mocks/food_images/fruit.png"},
+        {
+        "id": 24,
+        "parentId": 5,
+        "name": "Tomato Sauce",
+        "thumnils": "assets/images/mocks/food_images/fruit.png"}
+  ],
   "product": [
     {
       "id": 1,
