@@ -1034,5 +1034,28 @@
       "totalBenefitEndDate":1632298871000,
       "couponCode":"roth"
     }
+  ],
+  "dealerTransaction": [
+    {
+      "id": 1,
+      "dateTime": 1632298871000,
+      "customerName": "moru",
+      "amount": 324,
+      "benefit": 2
+    },
+    {
+      "id": 2,
+      "dateTime": 1632298871000,
+      "customerName": "morw",
+      "amount": 56,
+      "benefit": 1
+    },
+    {
+      "id": 3,
+      "dateTime": 1632298871000,
+      "customerName": "moro",
+      "amount": 34,
+      "benefit": 9
+    }
   ]
 }
