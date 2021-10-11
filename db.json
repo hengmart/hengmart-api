@@ -1057,5 +1057,35 @@
       "amount": 34,
       "benefit": 9
     }
+  ],
+  "dealerCustomer":[
+    {
+      "id":1,
+      "name":"mony",
+      "phoneNumber":"0998303983",
+      "orderAmount": 200,
+      "registerDate":1632298871000
+    },
+    {
+      "id":2,
+      "name":"mroro",
+      "phoneNumber":"0234892934",
+      "orderAmount": 100,
+      "registerDate":1632298871000
+    },
+    {
+      "id":3,
+      "name":"toyj",
+      "phoneNumber":"0127823434",
+      "orderAmount": 20,
+      "registerDate":1632298871000
+    },
+    {
+      "id":4,
+      "name":"hong",
+      "phoneNumber":"0892342342",
+      "orderAmount": 10,
+      "registerDate":1632298871000
+    }
   ]
 }
