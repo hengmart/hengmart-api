@@ -634,7 +634,8 @@
       "name": "បាយមាន់ហៃណាំ",
       "price": 10000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png",
-      "isActive": true
+      "isActive": true,
+      "isFavorite": true
     },
     {
       "id": 2,
@@ -643,7 +644,8 @@
       "name": "ភ្លាសាច់គោ",
       "price": 12000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a17.jpeg",
-      "isActive": true
+      "isActive": true,
+      "isFavorite": true
     },
     {
       "id": 3,
@@ -652,7 +654,8 @@
       "name": "ឆាក្ដាមម្រេចខ្ចី",
       "price": 18000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a19.jpeg",
-      "isActive": true
+      "isActive": true,
+      "isFavorite": true
     },
     {
       "id": 4,
@@ -661,7 +664,8 @@
       "name": "berger",
       "price": 12000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/b.png",
-      "isActive": false
+      "isActive": false,
+      "isFavorite": true
     },
     {
       "id": 5,
@@ -670,7 +674,8 @@
       "name": "sandwich",
       "price": 10000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/s.jpg",
-      "isActive": true
+      "isActive": true,
+      "isFavorite": false
     },
     {
       "id": 6,
@@ -679,7 +684,8 @@
       "name": "ចេក",
       "price": 6000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f3.jpg",
-      "isActive": false
+      "isActive": false,
+      "isFavorite": false
     },
     {
       "id": 7,
@@ -688,7 +694,8 @@
       "name": "ទំពាំងបាយជូរ",
       "price": 20000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f1.jpg",
-      "isActive": true
+      "isActive": true,
+      "isFavorite": false
     },
     {
       "id": 8,
@@ -697,7 +704,8 @@
       "name": "ក្រូច",
       "price": 8000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f2.jpg",
-      "isActive": true
+      "isActive": true,
+      "isFavorite": false
     },
     {
       "id": 9,
@@ -706,7 +714,8 @@
       "name": "Pepsi",
       "price": 20000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f1.jpg",
-      "isActive": true
+      "isActive": true,
+      "isFavorite": false
     },
     {
       "id": 10,
@@ -715,7 +724,8 @@
       "name": "Coke",
       "price": 8000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f2.jpg",
-      "isActive": true
+      "isActive": true,
+      "isFavorite": false
     },
     {
       "id": 11,
@@ -724,7 +734,8 @@
       "name": "Suki Sauce",
       "price": 20000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f1.jpg",
-      "isActive": true
+      "isActive": true,
+      "isFavorite": true
     },
     {
       "id": 12,
@@ -733,7 +744,8 @@
       "name": "Salad Cream",
       "price": 8000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f2.jpg",
-      "isActive": true
+      "isActive": true,
+      "isFavorite": false
     }
   ],
   "special-offer":[
