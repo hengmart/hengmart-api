@@ -524,113 +524,133 @@
       "thumnils": "https://pngimg.com/uploads/sauce/sauce_PNG121.png"
     }
   ],
-  "sub-category":[
-        {
-        "id": 6,
-        "parentId": 1,
-        "name": "Rice",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 7,
-        "parentId": 1,
-        "name": "Soup",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 8,
-        "parentId": 1,
-        "name": "Fried Rice",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 9,
-        "parentId": 1,
-        "name": "Fried Food",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 10,
-        "parentId": 1,
-        "name": "Sub cat",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 11,
-        "parentId": 2,
-        "name": "Pops",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 12,
-        "parentId": 2,
-        "name": "Chipsticks",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 13,
-        "parentId": 2,
-        "name": "Chickatees",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 14,
-        "parentId": 2,
-        "name": "Bacon Fries",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 15,
-        "parentId": 2,
-        "name": "Jelly Beans",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 16,
-        "parentId": 3,
-        "name": "Apple",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 17,
-        "parentId": 3,
-        "name": "Grape",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 18,
-        "parentId": 3,
-        "name": "Banana",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 19,
-        "parentId": 4,
-        "name": "Mixed Drink",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 20,
-        "parentId": 4,
-        "name": "Cocktail",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 21,
-        "parentId": 4,
-        "name": "Juice",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 22,
-        "parentId": 5,
-        "name": "Brown Sauce",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 23,
-        "parentId": 5,
-        "name": "Butter Sauce",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 24,
-        "parentId": 5,
-        "name": "Fish Sauce",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"},
-        {
-        "id": 25,
-        "parentId": 5,
-        "name": "Tomato Sauce",
-        "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"}
+  "sub-category": [
+    {
+      "id": 6,
+      "parentId": 1,
+      "name": "Rice",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 7,
+      "parentId": 1,
+      "name": "Soup",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 8,
+      "parentId": 1,
+      "name": "Fried Rice",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 9,
+      "parentId": 1,
+      "name": "Fried Food",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 10,
+      "parentId": 1,
+      "name": "Sub cat",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 11,
+      "parentId": 2,
+      "name": "Pops",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 12,
+      "parentId": 2,
+      "name": "Chipsticks",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 13,
+      "parentId": 2,
+      "name": "Chickatees",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 14,
+      "parentId": 2,
+      "name": "Bacon Fries",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 15,
+      "parentId": 2,
+      "name": "Jelly Beans",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 16,
+      "parentId": 3,
+      "name": "Apple",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 17,
+      "parentId": 3,
+      "name": "Grape",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 18,
+      "parentId": 3,
+      "name": "Banana",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 19,
+      "parentId": 4,
+      "name": "Mixed Drink",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 20,
+      "parentId": 4,
+      "name": "Cocktail",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 21,
+      "parentId": 4,
+      "name": "Juice",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 22,
+      "parentId": 5,
+      "name": "Brown Sauce",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 23,
+      "parentId": 5,
+      "name": "Butter Sauce",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 24,
+      "parentId": 5,
+      "name": "Fish Sauce",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    },
+    {
+      "id": 25,
+      "parentId": 5,
+      "name": "Tomato Sauce",
+      "thumnils": "https://www.pngitem.com/pimgs/m/428-4284019_stir-fry-rice-and-vegetables-spiced-rice-hd.png"
+    }
   ],
   "product": [
     {
       "id": 1,
       "categoryId": 1,
-      "subCategoryId":6,
+      "subCategoryId": 6,
       "name": "បាយមាន់ហៃណាំ",
       "price": 10000,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png",
@@ -748,132 +768,132 @@
       "isFavorite": false
     }
   ],
-  "special-offer":[
+  "special-offer": [
     {
       "id": 1,
       "name": "បាយមាន់ហៃណាំ",
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":3,
+      "categoryId": 3,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
     },
     {
       "id": 2,
       "name": "ភ្លាសាច់គោ",
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":2,
+      "categoryId": 2,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a17.jpeg"
     },
     {
       "id": 3,
       "name": "ឆាក្ដាមម្រេចខ្ចី",
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":2,
+      "categoryId": 2,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a19.jpeg"
     }
   ],
-  "lunch-box":[
+  "lunch-box": [
     {
       "id": 3,
       "name": "ឆាក្ដាមម្រេចខ្ចី",
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":3,
+      "categoryId": 3,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/a19.jpeg"
     },
     {
       "id": 4,
       "name": "berger",
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":5,
+      "categoryId": 5,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/b.png"
     },
     {
       "id": 5,
       "name": "sandwich",
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":1,
+      "categoryId": 1,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/s.jpg"
     }
   ],
-  "popular":[
+  "popular": [
     {
       "id": 5,
       "name": "sandwich",
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":1,
+      "categoryId": 1,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/s.jpg"
     },
     {
       "id": 6,
       "name": "ចេក",
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":2,
+      "categoryId": 2,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f3.jpg"
     },
     {
       "id": 7,
       "name": "ទំពាំងបាយជូរ",
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":3,
+      "categoryId": 3,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f1.jpg"
     },
     {
       "id": 8,
       "name": "ក្រូច",
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":1,
+      "categoryId": 1,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f2.jpg"
     }
   ],
-  "party-set":[
+  "party-set": [
     {
       "id": 1,
       "setName": "ទំពាំងបាយជូរ",
       "people": 5,
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":1,
+      "categoryId": 1,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f1.jpg"
     },
@@ -881,21 +901,21 @@
       "id": 2,
       "setName": "ក្រូច",
       "people": 9,
-      "normalPrice": 5.50,
+      "normalPrice": 5.5,
       "currentPrice": 3.25,
       "discount": 2.25,
       "isFavorite": true,
-      "categoryId":4,
+      "categoryId": 4,
       "rating": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/f2.jpg"
     }
   ],
-  "test":[
+  "test": [
     {
-      "id":30
+      "id": 30
     },
     {
-      "id":20
+      "id": 20
     }
   ],
   "category_list": [
@@ -1025,70 +1045,70 @@
       ]
     }
   ],
-  "address":[
+  "address": [
     {
-      "id":1,
-      "title":"work",
-      "address":"Address : Floor 4th,No. 85-88, St. Kim il Sung (289), Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
-      "isDefault":true,
-      "latitude":214124124,
-      "longitude":89068023
+      "id": 1,
+      "title": "work",
+      "address": "Address : Floor 4th,No. 85-88, St. Kim il Sung (289), Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
+      "isDefault": true,
+      "latitude": 214124124,
+      "longitude": 89068023
     },
     {
-      "id":2,
-      "title":"home",
-      "address":"Address :  St. Kim il Sung (289), Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
-      "isDefault":false,
-      "latitude":256,
-      "longitude":856
+      "id": 2,
+      "title": "home",
+      "address": "Address :  St. Kim il Sung (289), Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
+      "isDefault": false,
+      "latitude": 256,
+      "longitude": 856
     },
     {
-      "id":3,
-      "title":"mart",
-      "address":"Address : Floor 4th,No. 85-88,Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
-      "isDefault":false,
-      "latitude":245,
-      "longitude":796
+      "id": 3,
+      "title": "mart",
+      "address": "Address : Floor 4th,No. 85-88,Sangkat Boeng Kak II, Khan Tuol Kouk, Phnom Penh, Kingdom of Cambodia., Samdach Penn Nouth St. (289), Phnom Penh",
+      "isDefault": false,
+      "latitude": 245,
+      "longitude": 796
     },
     {
-      "id":4,
-      "title":"office",
-      "address":"Address : Floor 4th,No. 85-88, St. Kim il Sung (289)",
-      "isDefault":false,
-      "latitude":23562356,
-      "longitude":9657478
+      "id": 4,
+      "title": "office",
+      "address": "Address : Floor 4th,No. 85-88, St. Kim il Sung (289)",
+      "isDefault": false,
+      "latitude": 23562356,
+      "longitude": 9657478
     }
   ],
-  "dealerInfo":[
+  "dealerInfo": [
     {
-      "id":1,
-      "totalCustomer":25,
-      "benefitOfToday":234,
-      "benefitTodayDate":1632298871000,
-      "totalBenefit":234,
-      "totalBenefitStartDate":1632298871000,
-      "totalBenefitEndDate":1632298871000,
-      "couponCode":"doem"
+      "id": 1,
+      "totalCustomer": 25,
+      "benefitOfToday": 234,
+      "benefitTodayDate": 1632298871000,
+      "totalBenefit": 234,
+      "totalBenefitStartDate": 1632298871000,
+      "totalBenefitEndDate": 1632298871000,
+      "couponCode": "doem"
     },
     {
-      "id":2,
-      "totalCustomer":15,
-      "benefitOfToday":2345,
-      "benefitTodayDate":1632298871000,
-      "totalBenefit":456,
-      "totalBenefitStartDate":1632298871000,
-      "totalBenefitEndDate":1632298871000,
-      "couponCode":"mony"
+      "id": 2,
+      "totalCustomer": 15,
+      "benefitOfToday": 2345,
+      "benefitTodayDate": 1632298871000,
+      "totalBenefit": 456,
+      "totalBenefitStartDate": 1632298871000,
+      "totalBenefitEndDate": 1632298871000,
+      "couponCode": "mony"
     },
     {
-      "id":3,
-      "totalCustomer":45,
-      "benefitOfToday":678,
-      "benefitTodayDate":1632298871000,
-      "totalBenefit":275,
-      "totalBenefitStartDate":1632298871000,
-      "totalBenefitEndDate":1632298871000,
-      "couponCode":"roth"
+      "id": 3,
+      "totalCustomer": 45,
+      "benefitOfToday": 678,
+      "benefitTodayDate": 1632298871000,
+      "totalBenefit": 275,
+      "totalBenefitStartDate": 1632298871000,
+      "totalBenefitEndDate": 1632298871000,
+      "couponCode": "roth"
     }
   ],
   "dealerTransaction": [
@@ -1114,34 +1134,69 @@
       "benefit": 9
     }
   ],
-  "dealerCustomer":[
+  "dealerCustomer": [
     {
-      "id":1,
-      "name":"mony",
-      "phoneNumber":"0998303983",
+      "id": 1,
+      "name": "mony",
+      "phoneNumber": "0998303983",
       "orderAmount": 200,
-      "registerDate":1632298871000
+      "registerDate": 1632298871000
     },
     {
-      "id":2,
-      "name":"mroro",
-      "phoneNumber":"0234892934",
+      "id": 2,
+      "name": "mroro",
+      "phoneNumber": "0234892934",
       "orderAmount": 100,
-      "registerDate":1632298871000
+      "registerDate": 1632298871000
     },
     {
-      "id":3,
-      "name":"toyj",
-      "phoneNumber":"0127823434",
+      "id": 3,
+      "name": "toyj",
+      "phoneNumber": "0127823434",
       "orderAmount": 20,
-      "registerDate":1632298871000
+      "registerDate": 1632298871000
     },
     {
-      "id":4,
-      "name":"hong",
-      "phoneNumber":"0892342342",
+      "id": 4,
+      "name": "hong",
+      "phoneNumber": "0892342342",
       "orderAmount": 10,
-      "registerDate":1632298871000
+      "registerDate": 1632298871000
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "subtotal": 18.5,
+      "itemDiscount": 3.0,
+      "couponDiscount": 0.5,
+      "deliveryFee": 0.0,
+      "products": [
+        {
+          "id": 1,
+          "name": "something",
+          "price": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 2,
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "id": 1,
+          "name": "nothing",
+          "price": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 1,
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "id": 1,
+          "name": "product name",
+          "price": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 3,
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        }
+      ]
     }
   ]
 }
