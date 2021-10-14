@@ -1182,7 +1182,7 @@
           "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
         },
         {
-          "itemId": 1,
+          "itemId": 2,
           "itemName": "nothing",
           "itemPrice": 5.5,
           "priceAfterDiscount": 4.5,
@@ -1191,7 +1191,7 @@
           "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
         },
         {
-          "itemId": 1,
+          "itemId": 3,
           "itemName": "product name",
           "itemPrice": 5.5,
           "priceAfterDiscount": 4.5,
