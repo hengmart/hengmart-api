@@ -1173,27 +1173,30 @@
       "deliveryFee": 0.0,
       "products": [
         {
-          "id": 1,
-          "name": "something",
-          "price": 5.5,
+          "itemId": 1,
+          "itemName": "something",
+          "itemPrice": 5.5,
           "priceAfterDiscount": 4.5,
           "qty": 2,
+          "itemType": "product",
           "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
         },
         {
-          "id": 1,
-          "name": "nothing",
-          "price": 5.5,
+          "itemId": 1,
+          "itemName": "nothing",
+          "itemPrice": 5.5,
           "priceAfterDiscount": 4.5,
           "qty": 1,
+          "itemType": "product",
           "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
         },
         {
-          "id": 1,
-          "name": "product name",
-          "price": 5.5,
+          "itemId": 1,
+          "naitemNameme": "product name",
+          "itemPrice": 5.5,
           "priceAfterDiscount": 4.5,
           "qty": 3,
+          "itemType": "product",
           "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
         }
       ]
