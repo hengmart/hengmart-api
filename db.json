@@ -1192,7 +1192,7 @@
         },
         {
           "itemId": 1,
-          "naitemNameme": "product name",
+          "itemName": "product name",
           "itemPrice": 5.5,
           "priceAfterDiscount": 4.5,
           "qty": 3,
