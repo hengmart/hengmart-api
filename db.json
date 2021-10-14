@@ -1171,7 +1171,7 @@
       "itemDiscount": 3.0,
       "couponDiscount": 0.5,
       "deliveryFee": 0.0,
-      "products": [
+      "items": [
         {
           "itemId": 1,
           "itemName": "something",
