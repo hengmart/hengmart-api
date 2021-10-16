@@ -1201,5 +1201,19 @@
         }
       ]
     }
+  ],
+  "slider":[
+    {
+      "id":1,
+      "imageUrl":"https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/slide1.png"
+    },
+    {
+      "id":2,
+      "imageUrl":"https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/slide2.png"
+    },
+    {
+      "id":3,
+      "imageUrl":"https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/slide1.png"
+    }
   ]
 }
