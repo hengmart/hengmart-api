@@ -1239,5 +1239,194 @@
       "id":3,
       "price":100
     }
+  ],
+  "cooking-order":[
+    {
+      "id": 1,
+      "subtotal": 10.5,
+      "itemDiscount": 3.0,
+      "couponDiscount": 0.5,
+      "deliveryFee": 0.0,
+      "status": "cooking",
+      "items": [
+        {
+          "itemId": 1,
+          "itemName": "something",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 2,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "itemId": 2,
+          "itemName": "nothing",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 1,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "itemId": 3,
+          "itemName": "product name",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 3,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "subtotal": 18.5,
+      "itemDiscount": 4.0,
+      "couponDiscount": 0.5,
+      "deliveryFee": 3.0,
+      "status": "cooking",
+      "items": [
+        {
+          "itemId": 1,
+          "itemName": "something",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 2,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "itemId": 2,
+          "itemName": "nothing",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 1,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "itemId": 3,
+          "itemName": "product name",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 3,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        }
+      ]
+    }
+  ],
+  "complete-order":[
+    {
+      "id": 3,
+      "subtotal": 10.5,
+      "itemDiscount": 3.0,
+      "couponDiscount": 0.5,
+      "deliveryFee": 0.0,
+      "status": "completed",
+      "items": [
+        {
+          "itemId": 1,
+          "itemName": "something",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 2,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "itemId": 2,
+          "itemName": "nothing",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 1,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "itemId": 3,
+          "itemName": "product name",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 3,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "subtotal": 18.5,
+      "itemDiscount": 4.0,
+      "couponDiscount": 0.5,
+      "deliveryFee": 3.0,
+      "status": "completed",
+      "items": [
+        {
+          "itemId": 1,
+          "itemName": "something",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 2,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "itemId": 2,
+          "itemName": "nothing",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 1,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "itemId": 3,
+          "itemName": "product name",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 3,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "subtotal": 18.5,
+      "itemDiscount": 4.0,
+      "couponDiscount": 0.5,
+      "deliveryFee": 3.0,
+      "status": "completed",
+      "items": [
+        {
+          "itemId": 1,
+          "itemName": "something",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 2,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "itemId": 2,
+          "itemName": "nothing",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 1,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        },
+        {
+          "itemId": 3,
+          "itemName": "product name",
+          "itemPrice": 5.5,
+          "priceAfterDiscount": 4.5,
+          "qty": 3,
+          "itemType": "product",
+          "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
+        }
+      ]
+    }
   ]
 }
