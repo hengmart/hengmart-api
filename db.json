@@ -1243,6 +1243,7 @@
   "cooking-order":[
     {
       "id": 1,
+      "userId": 1,
       "subtotal": 10.5,
       "itemDiscount": 3.0,
       "couponDiscount": 0.5,
@@ -1280,6 +1281,7 @@
     },
     {
       "id": 2,
+      "userId": 1,
       "subtotal": 18.5,
       "itemDiscount": 4.0,
       "couponDiscount": 0.5,
@@ -1316,9 +1318,10 @@
       ]
     }
   ],
-  "complete-order":[
+  "completed-order":[
     {
       "id": 3,
+      "userId": 1,
       "subtotal": 10.5,
       "itemDiscount": 3.0,
       "couponDiscount": 0.5,
@@ -1356,6 +1359,7 @@
     },
     {
       "id": 4,
+      "userId": 1,
       "subtotal": 18.5,
       "itemDiscount": 4.0,
       "couponDiscount": 0.5,
@@ -1393,6 +1397,7 @@
     },
     {
       "id": 5,
+      "userId": 1,
       "subtotal": 18.5,
       "itemDiscount": 4.0,
       "couponDiscount": 0.5,
