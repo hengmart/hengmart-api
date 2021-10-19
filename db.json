@@ -1244,6 +1244,7 @@
     {
       "id": 1,
       "userId": 1,
+      "orderNumber":"ord-00001",
       "subtotal": 10.5,
       "itemDiscount": 3.0,
       "couponDiscount": 0.5,
@@ -1253,7 +1254,7 @@
         {
           "itemId": 1,
           "itemName": "something",
-          "itemPrice": 5.5,
+          "itemPrice": 6.5,
           "priceAfterDiscount": 4.5,
           "qty": 2,
           "itemType": "product",
@@ -1262,8 +1263,8 @@
         {
           "itemId": 2,
           "itemName": "nothing",
-          "itemPrice": 5.5,
-          "priceAfterDiscount": 4.5,
+          "itemPrice": 3.0,
+          "priceAfterDiscount": 2.5,
           "qty": 1,
           "itemType": "product",
           "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
@@ -1282,6 +1283,7 @@
     {
       "id": 2,
       "userId": 1,
+      "orderNumber":"ord-00002",
       "subtotal": 18.5,
       "itemDiscount": 4.0,
       "couponDiscount": 0.5,
@@ -1322,6 +1324,7 @@
     {
       "id": 3,
       "userId": 1,
+      "orderNumber":"ord-00003",
       "subtotal": 10.5,
       "itemDiscount": 3.0,
       "couponDiscount": 0.5,
@@ -1360,6 +1363,7 @@
     {
       "id": 4,
       "userId": 1,
+      "orderNumber":"ord-00004",
       "subtotal": 18.5,
       "itemDiscount": 4.0,
       "couponDiscount": 0.5,
@@ -1398,6 +1402,7 @@
     {
       "id": 5,
       "userId": 1,
+      "orderNumber":"ord-00005",
       "subtotal": 18.5,
       "itemDiscount": 4.0,
       "couponDiscount": 0.5,
@@ -1417,7 +1422,7 @@
           "itemId": 2,
           "itemName": "nothing",
           "itemPrice": 5.5,
-          "priceAfterDiscount": 4.5,
+          "priceAfterDiscount": 3.5,
           "qty": 1,
           "itemType": "product",
           "imageUrl": "https://raw.githubusercontent.com/hengmart/hengmart-api/main/images/foodc.png"
@@ -1425,7 +1430,7 @@
         {
           "itemId": 3,
           "itemName": "product name",
-          "itemPrice": 5.5,
+          "itemPrice": 5.0,
           "priceAfterDiscount": 4.5,
           "qty": 3,
           "itemType": "product",
